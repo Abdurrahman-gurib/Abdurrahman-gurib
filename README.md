@@ -9,7 +9,7 @@ I started coding in 2018, and since then, I have been on an exciting journey of 
 
 With a love for problem-solving and a commitment to continuous learning, I am dedicated to expanding my skills and making a positive impact through my work. Let's connect, collaborate, and create something incredible together!
 
-My latest achievement is first runner-up on the National level in Mauritius as National Best Innovator Hall Of Fame 2023 awarded by Ministry of Information Technology, Communication and Innovation, & Mauritius Research and Innovation Council
+My latest achievement is first runner-up on the National level in Mauritius as National Best Innovator Hall Of Fame 2023 awarded by Ministry of Information Technology, Communication and Innovation, & Mauritius Research and Innovation Council.
  
 
 *   🌍  I'm based in Mauritius
