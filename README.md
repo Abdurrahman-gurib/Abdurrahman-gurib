@@ -15,7 +15,7 @@ My latest achievement is first runner-up on the National level in Mauritius as N
 *   🌍  I'm based in Mauritius
 *   🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/abdurrahman-n-863ab7238/)
 *   ✉️  You can contact me at [noorgurib@gmail.com](mailto:noorgurib@gmail.com)
-*   🧠  I'm learning ASP .NET, C#, TypeScriptJS/AnjularJS, Flutter, Machine Learning, and Azure Devops.
+*   🧠  I'm proficient on ASP .NET, C#, TypeScriptJS/Angular/React, Flutter, MYSQL, Machine Learning, Phyton, BashScript and Azure Devops.
 *   🤝  I'm open to collaborating on National and International projects<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
